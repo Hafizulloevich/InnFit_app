@@ -1,10 +1,10 @@
-```json
+
 {
   "name": "innFit_application_v1",
   "private": true,
   "version": "0.1.0",
   "type": "module",
-  "description": "ImmFit - Fitness Apparel App with 3D Body Scanning",
+  "description": "InnFit - e-Commerce Apparel App with 3D Body Scanning",
   "author": "Hoshimov Mirzohamidullo",
   "license": "MIT",
   "scripts": {
@@ -33,4 +33,4 @@
     "postcss": "^8.4.32"
   }
 }
-```
+
